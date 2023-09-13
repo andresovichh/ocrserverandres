@@ -1,4 +1,4 @@
-module github.com/otiai10/ocrserver
+module github.com/andresovichh/ocrserverandres
 
 go 1.12
 
